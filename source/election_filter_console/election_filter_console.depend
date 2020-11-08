@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1604850861 source:c:\users\5353i\documents\coding\election_filter_console\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<fstream>
+

@@ -1,0 +1,6 @@
+Grade 11 Candidate Clara Costello(index 1): 0 valid vote(s) and 1 invalid vote(s).
+See below for each vote
+
+-----VALID VOTES-----
+-----INVALID VOTES-----
+	email: ameng2@ocdsb.ca, grade: 0, candidate index: 1, Invalid vote reason: vote registered from an email not associated with a lisgar student

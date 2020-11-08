@@ -1,0 +1,8 @@
+Name of email masterlist:
+emails.txt
+
+election grade:
+11
+
+result csv file name:
+Copy of (11) (Responses) - Form Responses 1.csv

@@ -1,0 +1,13 @@
+Grade 11 Candidate Zena Alkurdi(index 0): 1 valid vote(s) and 7 invalid vote(s).
+See below for each vote
+
+-----VALID VOTES-----
+	email: ameng1@ocdsb.ca, grade: 11, candidate index: 0
+-----INVALID VOTES-----
+	email: ameng3@ocdsb.ca, grade: 0, candidate index: 0, Invalid vote reason: vote registered from an email not associated with a lisgar student
+	email: ameng4@ocdsb.ca, grade: 0, candidate index: 0, Invalid vote reason: vote registered from an email not associated with a lisgar student
+	email: ameng5@ocdsb.ca, grade: 0, candidate index: 0, Invalid vote reason: vote registered from an email not associated with a lisgar student
+	email: ameng6@ocdsb.ca, grade: 0, candidate index: 0, Invalid vote reason: vote registered from an email not associated with a lisgar student
+	email: ameng8@ocdsb.ca, grade: 0, candidate index: 0, Invalid vote reason: vote registered from an email not associated with a lisgar student
+	email: ameng9@ocdsb.ca, grade: 0, candidate index: 0, Invalid vote reason: vote registered from an email not associated with a lisgar student
+	email: , grade: 0, candidate index: 0, Invalid vote reason: vote registered from an email not associated with a lisgar student

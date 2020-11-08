@@ -1,0 +1,6 @@
+Grade 11 Candidate Michael Lambiri(index 2): 0 valid vote(s) and 1 invalid vote(s).
+See below for each vote
+
+-----VALID VOTES-----
+-----INVALID VOTES-----
+	email: ameng7@ocdsb.ca, grade: 0, candidate index: 2, Invalid vote reason: vote registered from an email not associated with a lisgar student
